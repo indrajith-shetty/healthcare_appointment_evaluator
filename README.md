@@ -6,10 +6,10 @@ Predicting "No-show" in healthcare appointments
   * python3
 * packages:
   * scikit-learn 
---pandas
---matplotlib
---seaborn
---jupyter notebook
+  * pandas
+  * matplotlib 
+  * seaborn
+  * jupyter notebook
 
 
 
