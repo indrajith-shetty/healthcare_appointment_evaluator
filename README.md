@@ -13,10 +13,9 @@ Predicting "No-show" in healthcare appointments
 
 
 
-Once all the libraries are installed, start jupyter server and open the notebook named 'MLND appointment.ipynb'. All the cells are already executed and you can see the results. You can also run all the cells. 
+Once all the libraries are installed, start jupyter server and open the notebook named `MLND appointment.ipynb`. 
 
-Make sure that the dataset 'appointment.csv' is also present at the same folder as the notebook.
-
+The problem statement is provided in the `report.pdf` file.
 
 
 
