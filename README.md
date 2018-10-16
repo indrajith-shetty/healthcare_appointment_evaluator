@@ -2,10 +2,10 @@
 Predicting "No-show" in healthcare appointments
 
 ### Softwares and libraries used:
-- Language:
--- python3
--packages:
---scikit-learn 
+* Language:
+  * python3
+* packages:
+  * scikit-learn 
 --pandas
 --matplotlib
 --seaborn
